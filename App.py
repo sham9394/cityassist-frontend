@@ -1,7 +1,7 @@
-[06/11, 13:57] P Swapnil: frontend madhe jaun app/layout.tsx file la edit kr
-[06/11, 13:57] P Swapnil: import '../styles/globals.css'
-[06/11, 13:57] P Swapnil: 2 change /app/services/page.tsx
-[06/11, 13:57] P Swapnil: 'use client'
+frontend madhe jaun app/layout.tsx file la edit kr
+import '../styles/globals.css'
+2 change /app/services/page.tsx
+'use client'
 import React, { useEffect, useState } from 'react'
 
 export default function Services() {
@@ -28,7 +28,7 @@ export default function Services() {
     </div>
   );
 }
-[06/11, 13:57] P Swapnil: 'use client'
+'use client'
 import React, { useEffect, useState } from 'react'
 
 export default function Status() {
