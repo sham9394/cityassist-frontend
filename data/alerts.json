@@ -1,0 +1,18 @@
+[
+  {
+    "id": "A1",
+    "title": "High AQI in Zone A",
+    "zone": "Zone A",
+    "severity": "High",
+    "message": "PM2.5 reached 180 \u00b5g/m\u00b3",
+    "time": "2025-11-06T09:00:00Z"
+  },
+  {
+    "id": "A2",
+    "title": "Water outage in Zone B",
+    "zone": "Zone B",
+    "severity": "Medium",
+    "message": "Scheduled maintenance until 16:00",
+    "time": "2025-11-06T08:00:00Z"
+  }
+]
